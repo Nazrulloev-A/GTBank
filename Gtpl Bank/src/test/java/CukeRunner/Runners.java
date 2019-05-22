@@ -10,7 +10,7 @@ import cucumber.api.junit.Cucumber;
 		
 		
 		tags="@login",
-		features="/Users/abrahamben/Desktop/mail/Gtpl Bank/src/test/resources/feature",
+		features="/Users/abrahamben/git/GTBank2/Gtpl Bank/src/test/resources/feature",
 		plugin= {"html:target/cucmber-html-report"},
 		glue="StepDefinition",
 		dryRun = false
